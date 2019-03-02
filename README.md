@@ -8,3 +8,5 @@ To run the program program with a_example.txt:
 `$ g++ solver.cpp`
  
 `$ ./a.out 'Test set/a_example.txt' Out/a_out.txt`
+
+Total score: 872,418
